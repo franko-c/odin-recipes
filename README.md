@@ -1,14 +1,12 @@
 # My Recipes Project
 
-  
 
 Welcome to Darien's Recipes! 
 
-This project is a collection of delicious recipes, each with its own unique flavour and cultural background. The main page provides links to individual recipes, including Spanish Omelette, Coriander Rice, and Persian Cookies.
+This project is a collection of delicious recipes, each with its own unique flavour and cultural background. The main page provides links to individual recipes.
 
 ## Project Background
 
-  
 
 This project was completed as part of The Odin Project Foundations course. 
 
@@ -20,7 +18,6 @@ The project is helping grow my understanding of HTML and CSS, and of the bash te
 
 ## Table of Contents
 
-  
 
 - [Introduction](#introduction)
 
@@ -44,7 +41,7 @@ The project is helping grow my understanding of HTML and CSS, and of the bash te
 
 ## Introduction
 
-This project showcases a variety of recipes with a simple and elegant user interface. Each recipe is linked from the home page, making it easy to navigate and explore different dishes.
+This project showcases a variety of recipes with a simple user interface. Each recipe is linked from the home page, making it easy to navigate and explore different dishes.
 
  
 ## Technologies Used
@@ -98,7 +95,7 @@ open index.html
 
 - The home page displays a list of recipes with links to individual recipe pages.
 
-- Click on any recipe link to view the detailed recipe.
+- Click on any recipe link, or on the navigation bar, to view the detailed recipe.
 
   
 
@@ -133,4 +130,4 @@ These rose-scented Persian cookies are delicately spiced. They're the perfect tr
 
   
 
-Enjoy exploring and cooking these delicious recipes!
+Enjoy exploring and cooking these delicious foods!
