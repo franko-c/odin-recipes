@@ -1,0 +1,36 @@
+* {
+    font-family: 'Outfit', system-ui, -apple-system;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+h2 {
+    color: yellowgreen;
+}
+h3 {
+    color: salmon;
+}
+.nav-link {
+    display: inline-block;
+    padding: 15px 15px;
+    background-color: skyblue;
+    color: black;
+    font-weight: 400;
+    text-decoration: none;
+}
+.nav-link.active {
+    background-color: salmon;
+    color: white;
+    font-weight: 700;
+}
+
+ol li {
+    color: darkgreen;
+    font-size: 1.1rem;
+}
+ol,
+li p {
+    color: black;
+    font-size: 0.9rem;
+}
